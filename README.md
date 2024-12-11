@@ -1,0 +1,7 @@
+- **Passionate Software Developer** and **AI/ML Enthusiast** with a strong foundation in **Embedded Systems** and **IoT**.
+- Experienced in **Python**, **Java**, **VHDL**, and **SQL**.
+- Proficient in **Arduino IDE**, **Proteus**, **Tableau**, and other development tools.
+- Focused on solving real-world problems through **AI**, **Machine Learning**, and **IoT** applications.
+- Worked on projects like **Speech Emotion Recognition**, **Weather-Based Product Recommenders**, and **IoT-based Home Automation Systems**.
+- Continuously learning new technologies, frameworks, and tools to stay at the forefront of innovation.
+- Driven by curiosity and eager to collaborate and contribute to the tech community.
